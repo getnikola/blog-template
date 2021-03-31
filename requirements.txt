@@ -20,7 +20,7 @@ doit==0.33.1
     # via nikola
 idna==2.10
     # via requests
-lxml==4.6.2
+lxml==4.6.3
     # via nikola
 mako==1.1.4
     # via nikola
