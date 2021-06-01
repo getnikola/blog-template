@@ -52,7 +52,7 @@ six==1.15.0
     # via python-dateutil
 unidecode==1.2.0
     # via nikola
-urllib3==1.26.4
+urllib3==1.26.5
     # via requests
 yapsy==1.12.2
     # via nikola
