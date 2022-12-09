@@ -8,7 +8,7 @@ babel==2.10.3
     # via nikola
 blinker==1.5
     # via nikola
-certifi==2022.6.15
+certifi==2022.12.7
     # via requests
 charset-normalizer==2.1.1
     # via requests
